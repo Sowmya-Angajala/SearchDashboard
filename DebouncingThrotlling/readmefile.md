@@ -43,7 +43,7 @@ I practiced working directly with the **DOM using vanilla JavaScript**, includin
 
 ### ✅ Live Link
 
- [Click here to open the live app]()
+ [Click here to open the live app](https://gilded-biscochitos-8aa553.netlify.app/)
 
 ### 💻 Run Locally
 
